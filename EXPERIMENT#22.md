@@ -15,6 +15,9 @@
 > 2. 1 kHz Function Generator – Provides square-wave modulation to the microwave signal, enabling easier detection using a VSWR meter or oscilloscope.
 > 3. Gunn Oscillator – The primary microwave source that converts DC energy into RF microwave signals, typically using a GaAs Gunn diode.
 
+## INTRODUCTION
+>A microwave waveguide is a specialized structure used to guide electromagnetic waves, typically in the microwave frequency range (300 MHz to 300 GHz), from one point to another with minimal loss. Unlike conventional transmission lines such as coaxial cables, waveguides rely on boundary conditions and metallic walls to confine and direct the wave, allowing high-frequency signals to propagate efficiently. Common waveguide shapes include rectangular and circular, each supporting specific modes of propagation such as TE (transverse electric) and TM (transverse magnetic) modes. Waveguides are widely used in radar systems, satellite communication, microwave ovens, and high-frequency laboratory experiments, where they provide high power-handling capability, low attenuation, and reduced interference. Understanding the principles of waveguide operation, including cutoff frequency, mode patterns, and impedance matching, is essential for designing effective microwave communication and instrumentation systems.
+
 ## TRANSMISSION AND PASSIVE COMPONENT
 > 1. Isolator – A non-reciprocal device that allows power to flow in only one direction, protecting the Gunn Oscillator from reflected power.
 > 2. Directional Coupler – A multi-port device used to sample a small portion of microwave power from the main transmission line without disturbing the signal.
